@@ -3,7 +3,7 @@ package basicmath;
 import java.util.Scanner;
 import java.math.*;
 
-public class Main1002 {
+public class Baekjoon1002 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
